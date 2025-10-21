@@ -1,0 +1,15 @@
+use_default_settings: true
+general:
+  debug: false
+  instance_name: "Thoshan Search"
+server:
+  secret_key: "ccf21267ec378990fc18292aaec72447b880ae0ef7f7bc7e16c33bdf183b837e"
+  limiter: false
+  image_proxy: true
+redis:
+  url: redis://redis:6379/0
+ui:
+  templates_path: /etc/searxng/templates
+  default_theme: simple
+  theme_args:
+    simple_style: dark

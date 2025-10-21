@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html class="no-js theme-{{ preferences.get_value('simple_style') or 'auto' }} center-alignment-{{ preferences.get_value('center_alignment') or 'auto' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="endpoint" content="{{ endpoint }}">
+  <meta name="description" content="Lingadevaru HP — a privacy-respecting, open metasearch engine">
+  <meta name="keywords" content="Lingadevaru HP, search, search engine, metasearch, meta search">
+  <meta name="generator" content="Lingadevaru HP 2025.10.20+4295e758c">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noarchive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{% endblock %}{{ instance_name }}</title>
+  <script type="module" src="{{ url_for('static', filename='js/searxng.core.min.js') }}" client_settings="{{ client_settings }}"></script>
+  {% block meta %}{% endblock %}
+  {% if rtl %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/searxng-rtl.min.css') }}" type="text/css" media="screen">
+  {% else %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/searxng-ltr.min.css') }}" type="text/css" media="screen">
+  {% endif %}
+  {% if get_setting('server.limiter') or get_setting('server.public_instance') %}
+  <link rel="stylesheet" href="{{ url_for('client_token', token=link_token) }}" type="text/css">
+  {% endif %}
+  {% block head %}
+  <link title="{{ instance_name }}" type="application/opensearchdescription+xml" rel="search" href="{{ opensearch_url }}">
+  {% endblock %}
+  <link rel="icon" href="{{ url_for('static', filename='img/favicon.png') }}" sizes="any">
+  <link rel="icon" href="{{ url_for('static', filename='img/favicon.svg') }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ url_for('static', filename='img/favicon.png') }}">
+</head>
+<body class="{{ endpoint }}_endpoint">
+  <main id="main_{{  self._TemplateReference__context.name|replace('simple/', '')|replace('.html', '') }}" class="{{body_class}}">
+    {% if errors %}
+        <div class="dialog-error" role="alert">
+            <a href="#" class="close" aria-label="close" title="close">×</a>
+            <ul>
+            {% for message in errors %}
+                <li>{{ message }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+    <nav id="links_on_top">
+      {%- from 'simple/icons.html' import icon_big -%}
+      {%- block linkto_about -%}
+        <a href="{{ url_for('info', pagename='about') }}" class="link_on_top_about">{{ icon_big('information-circle') }}<span>About</span></a>
+      {%- endblock -%}
+      {%- block linkto_preferences -%}
+        <a href="{{ url_for('preferences') }}" class="link_on_top_preferences">{{ icon_big('settings') }}<span>Preferences</span></a>
+      {%- endblock -%}
+    </nav>
+    {% block header %}
+    {% endblock %}
+    {% block content %}
+    {% endblock %}
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <span>
+        Powered by Lingadevaru HP - 2025.10.20+4295e758c — a privacy‑respecting metasearch engine
+      </span>
+      <span class="links">
+        <a href="https://github.com/lingadevaru-hp" target="_blank" rel="noopener noreferrer">Source code</a> |
+        <a href="https://github.com/lingadevaru-hp" target="_blank" rel="noopener noreferrer">GitHub</a> |
+        <a href="https://lingadevaru.in/" target="_blank" rel="noopener noreferrer">About Me</a> |
+        <a href="https://linkedin.com/in/lingadevaruhp" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      </span>
+    </div>
+  </footer>
+</body>
+</html>
+

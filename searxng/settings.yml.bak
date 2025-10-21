@@ -1,0 +1,41 @@
+# see https://docs.searxng.org/admin/settings/settings.html#settings-use-default-settings
+use_default_settings: true
+
+general:
+  debug: false
+  instance_name: "Thoshan Search"
+  privacypolicy_url: false
+  donation_url: false
+  contact_url: false
+  enable_metrics: false
+
+server:
+  # base_url is defined in the SEARXNG_BASE_URL environment variable
+  secret_key: "ccf21267ec378990fc18292aaec72447b880ae0ef7f7bc7e16c33bdf183b837e"
+  limiter: false
+  image_proxy: true
+
+redis:
+  url: redis://redis:6379/0
+
+ui:
+  static_use_hash: true
+  infinite_scroll: true
+  default_theme: simple
+  theme_args:
+    simple_style: auto
+
+brand:
+  new_issue_url: false
+  docs_url: false
+  public_instances: false
+  wiki_url: false
+
+search:
+  safe_search: 0
+  autocomplete: ""
+  default_lang: ""
+  formats:
+    - html
+    - json
+
