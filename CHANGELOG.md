@@ -20,3 +20,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: unique mirror branch per run to survive reruns (#59)
 
 - Release: [2026-09-19-0d6b61f](./releases/2026-09-19-0d6b61f.md)
+
+## 2026-09-19 — shipment 9aff36a
+
+- fix: use mirror PAT for PR create/merge in wiki-platform (#60)
+
+- Release: [2026-09-19-9aff36a](./releases/2026-09-19-9aff36a.md)
