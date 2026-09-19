@@ -1,0 +1,3 @@
+// Placeholder — see wrangler docs for the real shape.
+// Compatibility date, routes and secrets live in the private core.
+export {};
