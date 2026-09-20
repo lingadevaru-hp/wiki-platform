@@ -26,3 +26,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: use mirror PAT for PR create/merge in wiki-platform (#60)
 
 - Release: [2026-09-19-9aff36a](./2026-09-19-9aff36a.md)
+
+## 2026-09-20 — shipment 7f6e69b
+
+- fix: mirror writes CHANGELOG inside releases/ after repo tidy (#61)
+
+- Release: [2026-09-20-7f6e69b](./2026-09-20-7f6e69b.md)
