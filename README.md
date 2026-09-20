@@ -1,25 +1,50 @@
 # Wiki Platform
 
-Multilingual knowledge hub serving `lingadevaru.in` — English plus
-Kannada, Hindi, Japanese, Malayalam, Tamil, Telugu and Gujarati on
-dedicated subdomains, from a single codebase and edge worker.
+### 📖 Proxy repository — public build journal & developer catalog
 
-- **Live:** https://lingadevaru.in
-- **Status:** actively developed — see [CHANGELOG.md](./CHANGELOG.md) and
-  [`releases/`](./releases/) for what shipped recently.
+This is the **proxy repository** of the Wiki Platform — the project behind
+[lingadevaru.in](https://lingadevaru.in). The complete implementation lives in
+its **private core repository**; this proxy exists so the work can still be
+followed openly:
 
-## Layout
+- **Interface catalog** — every module listed with its responsibility, so the
+  architecture stays reviewable without exposing implementation.
+- **Shipping log** — each merge in the core lands here as a release note
+  (`releases/`) and changelog entry, synced automatically.
+- **Design notes** — architecture, localization, and component decisions
+  in `docs/`.
 
-| Path | What lives here |
-|------|-----------------|
-| `src/worker.ts` | Edge request router (locale resolve → static serve → headers) |
-| `lib/` | Shared utilities (locale resolution, content loading, SEO helpers) |
-| `article-tts/` | Article text-to-speech pipeline notes |
-| `scripts/` | Ops scripts (usage documented per script) |
-| `docs/` | Architecture and localization notes |
-| `artifacts/thoshan-wiki/` | Web app component inventory |
-| `releases/` | Per-release notes, one file per shipment |
-| `CHANGELOG.md` | Chronological record of every shipment |
+## Eight separate websites, one monorepo
 
-Implementation bodies live in the private core; this repo tracks the
-public interface surface and the shipping history.
+The platform is available in multiple languages on multiple websites. These
+are **eight separate websites** — not one site with a language toggle. Each
+subdomain is its own full website, built in its own language from the first
+byte, and all eight are controlled by **one single repository, one source,
+one deploy**: change once and it reflects everywhere.
+
+| Language | Native | Website |
+|----------|--------|---------|
+| English | English | https://lingadevaru.in |
+| Kannada | ಕನ್ನಡ | https://kn.lingadevaru.in |
+| Hindi | हिन्दी | https://hi.lingadevaru.in |
+| Japanese | 日本語 | https://ja.lingadevaru.in |
+| Malayalam | മലയാളം | https://ml.lingadevaru.in |
+| Tamil | தமிழ் | https://ta.lingadevaru.in |
+| Telugu | తెలుగు | https://te.lingadevaru.in |
+| Gujarati | ગુજરાતી | https://gu.lingadevaru.in |
+
+## How the proxy stays in sync
+
+All development happens in the private core repository. Every change pushed
+there is deployed to all eight subdomains at once — and every commit message
+is reflected here in this public proxy as a release note, for security and
+openness without exposing source. What you see in
+[releases](./releases/) and [CHANGELOG.md](./CHANGELOG.md) is the complete
+public record: **commits, not code**.
+
+## More
+
+- [Platform features](./docs/FEATURES.md) — what the platform does
+- [Collaborators](./COLLABORATORS.md) — collaborate, translate, sponsor
+- [Security](./SECURITY.md) — bot protection and reporting rules
+- [Layout](./docs/STRUCTURE.md) — what lives where in this repo
