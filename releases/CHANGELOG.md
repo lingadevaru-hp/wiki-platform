@@ -32,3 +32,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: mirror writes CHANGELOG inside releases/ after repo tidy (#61)
 
 - Release: [2026-09-20-7f6e69b](./2026-09-20-7f6e69b.md)
+
+## 2026-09-20 — shipment c6a8d95
+
+- feat: add PostHog analytics with cross-subdomain session tracking (#62)
+
+- Release: [2026-09-20-c6a8d95](./2026-09-20-c6a8d95.md)
