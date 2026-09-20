@@ -14,7 +14,7 @@ private core, so contributions here work differently from a normal repo.
   paragraph.
 - **Features** — describe the reader problem first, the solution second.
 - **Docs in this repo** — typo fixes and clarifications to the markdown
-  surface (`README.md`, `docs/`, `COLLABORATORS.md`, `SECURITY.md`) are
+  surface (`README.md`, `docs/`, `.github/COLLABORATORS.md`, `.github/SECURITY.md`) are
   welcome as pull requests.
 
 ## How to propose
