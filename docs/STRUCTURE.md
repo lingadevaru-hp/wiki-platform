@@ -12,9 +12,9 @@ What lives where in this proxy repository
 | `docs/` | Architecture, localization, features, and structure notes |
 | `artifacts/thoshan-wiki/` | Web app component inventory |
 | `releases/` | Per-release notes, one file per shipment |
-| `CHANGELOG.md` | Chronological record of every shipment |
-| `COLLABORATORS.md` | How to collaborate, translate, or sponsor |
-| `SECURITY.md` | Bot protection and reporting rules |
+| `releases/CHANGELOG.md` | Chronological record of every shipment |
+| `.github/COLLABORATORS.md` | How to collaborate, translate, or sponsor |
+| `.github/SECURITY.md` | Bot protection and reporting rules |
 
 Implementation bodies live in the private core; this repo tracks the
 public interface surface and the shipping history.

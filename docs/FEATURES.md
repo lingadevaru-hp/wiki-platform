@@ -16,4 +16,4 @@ What the Wiki Platform does across its eight language sites
 - **FOSS media pipeline** — self-encoded video loops and per-article audio,
   served as static assets.
 - **Bot protection** — only major search engines are allowed; AI crawlers
-  and scrapers are blocked on all eight websites (see [Security](./SECURITY.md)).
+  and scrapers are blocked on all eight websites (see [Security](../.github/SECURITY.md)).

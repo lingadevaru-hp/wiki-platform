@@ -39,7 +39,7 @@ All development happens in the private core repository. Every change pushed
 there is deployed to all eight subdomains at once — and every commit message
 is reflected here in this public proxy as a release note, for security and
 openness without exposing source. What you see in
-[releases](./releases/) and [CHANGELOG.md](./CHANGELOG.md) is the complete
+[releases](./releases/) and [CHANGELOG.md](./releases/CHANGELOG.md) is the complete
 public record: **commits, not code**.
 
 ## 🤝 Collaborate
@@ -52,11 +52,11 @@ proposals may be granted access to the relevant source — just ask, and
 include what you'd contribute and why.
 
 Full rules, sponsorships, and response times live in
-[COLLABORATORS.md](./COLLABORATORS.md).
+[COLLABORATORS.md](./.github/COLLABORATORS.md).
 
 ## More
 
 - [Platform features](./docs/FEATURES.md) — what the platform does
-- [Collaborators](./COLLABORATORS.md) — collaborate, translate, sponsor
-- [Security](./SECURITY.md) — bot protection and reporting rules
+- [Collaborators](./.github/COLLABORATORS.md) — collaborate, translate, sponsor
+- [Security](./.github/SECURITY.md) — bot protection and reporting rules
 - [Layout](./docs/STRUCTURE.md) — what lives where in this repo
