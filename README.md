@@ -42,6 +42,18 @@ openness without exposing source. What you see in
 [releases](./releases/) and [CHANGELOG.md](./CHANGELOG.md) is the complete
 public record: **commits, not code**.
 
+## 🤝 Collaborate
+
+Like this project or have a feature in mind? We'd love to hear from you —
+write to [dev@lingadevaru.in](mailto:dev@lingadevaru.in). Tell us which of
+the 8 language sites it's for and what you'd like to see: corrections,
+translations, new languages, or new features. Useful, well-described
+proposals may be granted access to the relevant source — just ask, and
+include what you'd contribute and why.
+
+Full rules, sponsorships, and response times live in
+[COLLABORATORS.md](./COLLABORATORS.md).
+
 ## More
 
 - [Platform features](./docs/FEATURES.md) — what the platform does
