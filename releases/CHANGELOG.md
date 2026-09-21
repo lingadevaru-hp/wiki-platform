@@ -45,3 +45,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(home): night-sky hero + stretched desktop layout
 
 - Release: [2026-09-21-d6a8b46](./2026-09-21-d6a8b46.md)
+
+## 2026-09-21 — shipment 3b81c03
+
+- Merge pull request #64 from lingadevaru-hp/fix/favicon-green
+- fix(favicon): replace static red square with green brand mark
+
+- Release: [2026-09-21-3b81c03](./2026-09-21-3b81c03.md)
