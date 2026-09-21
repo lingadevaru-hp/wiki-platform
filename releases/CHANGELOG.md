@@ -52,3 +52,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(favicon): replace static red square with green brand mark
 
 - Release: [2026-09-21-3b81c03](./2026-09-21-3b81c03.md)
+
+## 2026-09-21 — shipment d65073d
+
+- Merge pull request #65 from lingadevaru-hp/feat/chat-nav-everywhere
+- feat(nav): chat-with-me icon on landing + all wiki pages
+
+- Release: [2026-09-21-d65073d](./2026-09-21-d65073d.md)
