@@ -59,3 +59,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(nav): chat-with-me icon on landing + all wiki pages
 
 - Release: [2026-09-21-d65073d](./2026-09-21-d65073d.md)
+
+## 2026-09-21 — shipment dee716a
+
+- Merge pull request #66 from lingadevaru-hp/fix/landing-mobile-icons
+- fix(landing): mobile hides hamburger+github, centers search/chat/theme/lang
+
+- Release: [2026-09-21-dee716a](./2026-09-21-dee716a.md)
