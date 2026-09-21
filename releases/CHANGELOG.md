@@ -38,3 +38,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: add PostHog analytics with cross-subdomain session tracking (#62)
 
 - Release: [2026-09-20-c6a8d95](./2026-09-20-c6a8d95.md)
+
+## 2026-09-21 — shipment d6a8b46
+
+- Merge pull request #63 from lingadevaru-hp/feat/home-redesign-night-hero
+- feat(home): night-sky hero + stretched desktop layout
+
+- Release: [2026-09-21-d6a8b46](./2026-09-21-d6a8b46.md)
