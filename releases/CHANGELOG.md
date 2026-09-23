@@ -101,3 +101,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(chat): reliable drag, collapse button, all icons stay visible
 
 - Release: [2026-09-23-49b440b](./2026-09-23-49b440b.md)
+
+## 2026-09-23 — shipment cf9b406
+
+- Merge pull request #72 from lingadevaru-hp/feat/chat-panel-polish
+- feat(chat): panel UX polish from design-system research
+
+- Release: [2026-09-23-cf9b406](./2026-09-23-cf9b406.md)
