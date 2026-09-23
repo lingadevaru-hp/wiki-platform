@@ -108,3 +108,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(chat): panel UX polish from design-system research
 
 - Release: [2026-09-23-cf9b406](./2026-09-23-cf9b406.md)
+
+## 2026-09-23 — shipment 97b1b2c
+
+- Merge pull request #73 from lingadevaru-hp/feat/chat-miniapp
+- feat(chat): mini-app UX round — wordmark, scroll lock, bottom bar, detents
+
+- Release: [2026-09-23-97b1b2c](./2026-09-23-97b1b2c.md)
