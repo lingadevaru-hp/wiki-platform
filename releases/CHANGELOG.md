@@ -73,3 +73,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(breadcrumb): spacing below header, clickable links, no header radius
 
 - Release: [2026-09-23-8191ba8](./2026-09-23-8191ba8.md)
+
+## 2026-09-23 — shipment 4ad2737
+
+- Merge pull request #68 from lingadevaru-hp/feat/chat-panel
+- feat(chat): slide-over panel embedding chat subdomain
+
+- Release: [2026-09-23-4ad2737](./2026-09-23-4ad2737.md)
