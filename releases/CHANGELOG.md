@@ -122,3 +122,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Feat: full search indexability + keyword targeting
 
 - Release: [2026-09-23-e856a43](./2026-09-23-e856a43.md)
+
+## 2026-09-23 — shipment 91a2e5a
+
+- Merge pull request #75 from lingadevaru-hp/fix/remove-chat-mini-bar
+- Fix: remove redundant chat mini-bar on mobile sheet
+
+- Release: [2026-09-23-91a2e5a](./2026-09-23-91a2e5a.md)
