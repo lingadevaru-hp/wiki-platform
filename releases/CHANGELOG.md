@@ -115,3 +115,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(chat): mini-app UX round — wordmark, scroll lock, bottom bar, detents
 
 - Release: [2026-09-23-97b1b2c](./2026-09-23-97b1b2c.md)
+
+## 2026-09-23 — shipment e856a43
+
+- Merge pull request #74 from lingadevaru-hp/feat/seo-indexability
+- Feat: full search indexability + keyword targeting
+
+- Release: [2026-09-23-e856a43](./2026-09-23-e856a43.md)
