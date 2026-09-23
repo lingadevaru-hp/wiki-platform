@@ -66,3 +66,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(landing): mobile hides hamburger+github, centers search/chat/theme/lang
 
 - Release: [2026-09-21-dee716a](./2026-09-21-dee716a.md)
+
+## 2026-09-23 — shipment 8191ba8
+
+- Merge pull request #67 from lingadevaru-hp/fix/breadcrumb-spacing
+- fix(breadcrumb): spacing below header, clickable links, no header radius
+
+- Release: [2026-09-23-8191ba8](./2026-09-23-8191ba8.md)
