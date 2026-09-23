@@ -80,3 +80,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(chat): slide-over panel embedding chat subdomain
 
 - Release: [2026-09-23-4ad2737](./2026-09-23-4ad2737.md)
+
+## 2026-09-23 — shipment d2eee10
+
+- Merge pull request #69 from lingadevaru-hp/feat/chat-smooth
+- feat(chat): smoothness + page-aware panel upgrades
+
+- Release: [2026-09-23-d2eee10](./2026-09-23-d2eee10.md)
