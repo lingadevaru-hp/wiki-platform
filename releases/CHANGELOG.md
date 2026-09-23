@@ -87,3 +87,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(chat): smoothness + page-aware panel upgrades
 
 - Release: [2026-09-23-d2eee10](./2026-09-23-d2eee10.md)
+
+## 2026-09-23 — shipment 000eee9
+
+- Merge pull request #70 from lingadevaru-hp/feat/chat-wide-mobile
+- feat(chat): 70vw panel, anti-squeeze icons, music overlap + mobile overflow fixes
+
+- Release: [2026-09-23-000eee9](./2026-09-23-000eee9.md)
