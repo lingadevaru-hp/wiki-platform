@@ -94,3 +94,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(chat): 70vw panel, anti-squeeze icons, music overlap + mobile overflow fixes
 
 - Release: [2026-09-23-000eee9](./2026-09-23-000eee9.md)
+
+## 2026-09-23 — shipment 49b440b
+
+- Merge pull request #71 from lingadevaru-hp/feat/chat-collapse
+- feat(chat): reliable drag, collapse button, all icons stay visible
+
+- Release: [2026-09-23-49b440b](./2026-09-23-49b440b.md)
