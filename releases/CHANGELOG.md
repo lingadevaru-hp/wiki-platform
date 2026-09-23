@@ -129,3 +129,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: remove redundant chat mini-bar on mobile sheet
 
 - Release: [2026-09-23-91a2e5a](./2026-09-23-91a2e5a.md)
+
+## 2026-09-23 — shipment 7015fa2
+
+- Fix: mobile header dropdowns vanishing on scroll (globe + overflow)
+
+- Release: [2026-09-23-7015fa2](./2026-09-23-7015fa2.md)
