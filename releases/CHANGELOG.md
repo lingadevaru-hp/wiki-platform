@@ -170,3 +170,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: news lead full-width beside infobox, drop bottom action bar on news
 
 - Release: [2026-09-26-9e65b16](./2026-09-26-9e65b16.md)
+
+## 2026-09-26 — shipment 6410b1a
+
+- Merge pull request #81 from lingadevaru-hp/feat/ui-improvements-news-pill-selection-copy
+- feat(ui): round news ticker pill on mobile + floating copy popup + selection colors
+
+- Release: [2026-09-26-6410b1a](./2026-09-26-6410b1a.md)
