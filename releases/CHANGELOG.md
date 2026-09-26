@@ -163,3 +163,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Chore: archive meetup media originals out of repo root
 
 - Release: [2026-09-26-226c50b](./2026-09-26-226c50b.md)
+
+## 2026-09-26 — shipment 9e65b16
+
+- Merge pull request #80 from lingadevaru-hp/fix/news-lead-width-actions
+- Fix: news lead full-width beside infobox, drop bottom action bar on news
+
+- Release: [2026-09-26-9e65b16](./2026-09-26-9e65b16.md)
