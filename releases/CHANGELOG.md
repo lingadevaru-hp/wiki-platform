@@ -142,3 +142,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: chat panel header uses pixel wordmark logo
 
 - Release: [2026-09-26-d3682e6](./2026-09-26-d3682e6.md)
+
+## 2026-09-26 — shipment 34942ec
+
+- Merge pull request #77 from lingadevaru-hp/feat/news-collections-newsletter
+- Feat: collections (projects/achievements/news), newsletter, news reading view
+
+- Release: [2026-09-26-34942ec](./2026-09-26-34942ec.md)
