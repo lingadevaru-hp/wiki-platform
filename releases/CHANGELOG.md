@@ -149,3 +149,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Feat: collections (projects/achievements/news), newsletter, news reading view
 
 - Release: [2026-09-26-34942ec](./2026-09-26-34942ec.md)
+
+## 2026-09-26 — shipment 0a8a0db
+
+- Merge pull request #78 from lingadevaru-hp/fix/omarchy-meetup-page
+- Fix: omarchy-meetup page — lightbox, breadcrumb, hero loop, content rebuild
+
+- Release: [2026-09-26-0a8a0db](./2026-09-26-0a8a0db.md)
