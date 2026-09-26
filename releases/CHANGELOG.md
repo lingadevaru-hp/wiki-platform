@@ -156,3 +156,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: omarchy-meetup page — lightbox, breadcrumb, hero loop, content rebuild
 
 - Release: [2026-09-26-0a8a0db](./2026-09-26-0a8a0db.md)
+
+## 2026-09-26 — shipment 226c50b
+
+- Merge pull request #79 from lingadevaru-hp/chore/meetup-originals
+- Chore: archive meetup media originals out of repo root
+
+- Release: [2026-09-26-226c50b](./2026-09-26-226c50b.md)
