@@ -135,3 +135,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: mobile header dropdowns vanishing on scroll (globe + overflow)
 
 - Release: [2026-09-23-7015fa2](./2026-09-23-7015fa2.md)
+
+## 2026-09-26 — shipment d3682e6
+
+- Merge pull request #76 from lingadevaru-hp/fix/chat-panel-wordmark
+- Fix: chat panel header uses pixel wordmark logo
+
+- Release: [2026-09-26-d3682e6](./2026-09-26-d3682e6.md)
