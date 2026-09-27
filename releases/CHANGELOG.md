@@ -189,3 +189,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(newsletter): welcome-mail backfill, owner alerts, admin list, analytics (#83)
 
 - Release: [2026-09-27-ffa5d7a](./2026-09-27-ffa5d7a.md)
+
+## 2026-09-27 — shipment 6628bbb
+
+- feat(newsletter): auto-popup on news/articles, scheduled backfill (#84)
+
+- Release: [2026-09-27-6628bbb](./2026-09-27-6628bbb.md)
