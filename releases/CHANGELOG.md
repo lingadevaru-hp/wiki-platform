@@ -183,3 +183,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(newsletter): free D1 storage for signups, Zoho welcome-mail backend (#82)
 
 - Release: [2026-09-27-d210525](./2026-09-27-d210525.md)
+
+## 2026-09-27 — shipment ffa5d7a
+
+- feat(newsletter): welcome-mail backfill, owner alerts, admin list, analytics (#83)
+
+- Release: [2026-09-27-ffa5d7a](./2026-09-27-ffa5d7a.md)
