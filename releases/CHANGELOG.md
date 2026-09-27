@@ -195,3 +195,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(newsletter): auto-popup on news/articles, scheduled backfill (#84)
 
 - Release: [2026-09-27-6628bbb](./2026-09-27-6628bbb.md)
+
+## 2026-09-27 — shipment 459104a
+
+- fix(ci): newsletter-backfill paths relative to repo root (#85)
+
+- Release: [2026-09-27-459104a](./2026-09-27-459104a.md)
