@@ -201,3 +201,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(ci): newsletter-backfill paths relative to repo root (#85)
 
 - Release: [2026-09-27-459104a](./2026-09-27-459104a.md)
+
+## 2026-09-27 — shipment ad1ed1e
+
+- feat(portfolio): refresh mobile experience and newsletter (#86)
+
+- Release: [2026-09-27-ad1ed1e](./2026-09-27-ad1ed1e.md)
