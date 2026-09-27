@@ -177,3 +177,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(ui): round news ticker pill on mobile + floating copy popup + selection colors
 
 - Release: [2026-09-26-6410b1a](./2026-09-26-6410b1a.md)
+
+## 2026-09-27 — shipment d210525
+
+- feat(newsletter): free D1 storage for signups, Zoho welcome-mail backend (#82)
+
+- Release: [2026-09-27-d210525](./2026-09-27-d210525.md)
