@@ -221,3 +221,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(article): Kannada Omarchy meetup CTO section and heading
 
 - Release: [2026-09-30-7740c0a](./2026-09-30-7740c0a.md)
+
+## 2026-09-30 — shipment d214559
+
+- Merge pull request #89 from lingadevaru-hp/feat/mobile-copy-tables
+- feat(mobile): copy-button overhaul and mobile table cards
+
+- Release: [2026-09-30-d214559](./2026-09-30-d214559.md)
