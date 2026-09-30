@@ -207,3 +207,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(portfolio): refresh mobile experience and newsletter (#86)
 
 - Release: [2026-09-27-ad1ed1e](./2026-09-27-ad1ed1e.md)
+
+## 2026-09-30 — shipment 097d7ee
+
+- Merge pull request #87 from lingadevaru-hp/fix/omarchy-meetup-cto-updot
+- fix(article): correct Omarchy meetup CTO of UPDOT attribution
+
+- Release: [2026-09-30-097d7ee](./2026-09-30-097d7ee.md)
