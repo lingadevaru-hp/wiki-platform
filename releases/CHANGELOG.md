@@ -228,3 +228,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(mobile): copy-button overhaul and mobile table cards
 
 - Release: [2026-09-30-d214559](./2026-09-30-d214559.md)
+
+## 2026-09-30 — shipment f3dd1d1
+
+- Merge pull request #90 from lingadevaru-hp/fix/mobile-tables-normal
+- fix(mobile): normal wrapping tables instead of broken cards
+
+- Release: [2026-09-30-f3dd1d1](./2026-09-30-f3dd1d1.md)
