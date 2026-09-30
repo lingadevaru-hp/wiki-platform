@@ -214,3 +214,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(article): correct Omarchy meetup CTO of UPDOT attribution
 
 - Release: [2026-09-30-097d7ee](./2026-09-30-097d7ee.md)
+
+## 2026-09-30 — shipment 7740c0a
+
+- Merge pull request #88 from lingadevaru-hp/fix/omarchy-meetup-kn-heading
+- fix(article): Kannada Omarchy meetup CTO section and heading
+
+- Release: [2026-09-30-7740c0a](./2026-09-30-7740c0a.md)
