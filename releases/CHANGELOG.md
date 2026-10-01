@@ -259,3 +259,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Docs: Part A research fixes + verified Telegram/Manus values + baseline
 
 - Release: [2026-10-01-7e117ba](./2026-10-01-7e117ba.md)
+
+## 2026-10-01 — shipment 108083c
+
+- Merge pull request #99 from lingadevaru-hp/fix/centered-popups
+- Fix: search + menu are centered popups, compact only with keyboard
+
+- Release: [2026-10-01-108083c](./2026-10-01-108083c.md)
