@@ -235,3 +235,27 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(mobile): normal wrapping tables instead of broken cards
 
 - Release: [2026-09-30-f3dd1d1](./2026-09-30-f3dd1d1.md)
+
+## 2026-10-01 — shipment 7e117ba
+
+- Merge pull request #97 from lingadevaru-hp/upgrade/v10-integration
+- Feat: v10.10 part 2 — focus restore, TTS boundary, honesty pass
+- Feat: v10.10 portfolio upgrade — tokens, sheets, focus, Kannada, perf
+- Merge branch 'feat/stage-6-perf-pass' into upgrade/v10-integration
+- Merge branch 'feat/stage-4-kannada-type' into upgrade/v10-integration
+- Merge branch 'feat/stage-3-half-sheets' into upgrade/v10-integration
+- Merge branch 'feat/stage-2-keyboard-aware' into upgrade/v10-integration
+- Merge branch 'feat/stage-1-quick-wins' into upgrade/v10-integration
+- Merge branch 'research/v10-combined' into upgrade/v10-integration
+- Merge branch 'docs/research-part-a' into upgrade/v10-integration
+- Docs: combined research — Gemini values replace assumed tokens + 32-item UI/UX list
+- Docs: stage 2-6 log + CROSS-APPLY matrix + deferred blockers
+- Perf: stage 6 content-visibility for related rail list
+- Feat: stage 4 Kannada typography — Noto stacks + lang-scoped rules
+- Feat: stage 3 search + command menu become bottom sheets on phones
+- Feat: stage 2 keyboard-aware overlays via dvh fallbacks
+- Docs: log Stage 1 PRs in PROGRESS
+- Feat: stage 1 quick wins — search input attrs, 150ms page fade, standard ease-in
+- Docs: Part A research fixes + verified Telegram/Manus values + baseline
+
+- Release: [2026-10-01-7e117ba](./2026-10-01-7e117ba.md)
