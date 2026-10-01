@@ -259,3 +259,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Docs: Part A research fixes + verified Telegram/Manus values + baseline
 
 - Release: [2026-10-01-7e117ba](./2026-10-01-7e117ba.md)
+
+## 2026-10-01 — shipment da7bc11
+
+- Merge pull request #100 from lingadevaru-hp/fix/newsletter-open
+- Fix: newsletter opens even when trackers are blocked
+
+- Release: [2026-10-01-da7bc11](./2026-10-01-da7bc11.md)
