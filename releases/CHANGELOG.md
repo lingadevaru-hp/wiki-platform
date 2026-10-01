@@ -266,3 +266,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: search + menu are centered popups, compact only with keyboard
 
 - Release: [2026-10-01-108083c](./2026-10-01-108083c.md)
+
+## 2026-10-01 — shipment da7bc11
+
+- Merge pull request #100 from lingadevaru-hp/fix/newsletter-open
+- Fix: newsletter opens even when trackers are blocked
+
+- Release: [2026-10-01-da7bc11](./2026-10-01-da7bc11.md)
