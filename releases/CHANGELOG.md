@@ -260,6 +260,13 @@ Chronological record of shipments. Details per release in `releases/`.
 
 - Release: [2026-10-01-7e117ba](./2026-10-01-7e117ba.md)
 
+## 2026-10-01 — shipment 108083c
+
+- Merge pull request #99 from lingadevaru-hp/fix/centered-popups
+- Fix: search + menu are centered popups, compact only with keyboard
+
+- Release: [2026-10-01-108083c](./2026-10-01-108083c.md)
+
 ## 2026-10-01 — shipment da7bc11
 
 - Merge pull request #100 from lingadevaru-hp/fix/newsletter-open
