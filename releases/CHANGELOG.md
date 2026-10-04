@@ -273,3 +273,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Fix: newsletter opens even when trackers are blocked
 
 - Release: [2026-10-01-da7bc11](./2026-10-01-da7bc11.md)
+
+## 2026-10-04 — shipment 441ba7b
+
+- Merge pull request #101 from lingadevaru-hp/feat/homepage-personal-wiki-seo
+- feat(seo): homepage as personal knowledge wiki
+
+- Release: [2026-10-04-441ba7b](./2026-10-04-441ba7b.md)
