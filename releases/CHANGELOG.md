@@ -280,3 +280,11 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(seo): homepage as personal knowledge wiki
 
 - Release: [2026-10-04-441ba7b](./2026-10-04-441ba7b.md)
+
+## 2026-10-05 — shipment 31c404a
+
+- Merge pull request #102 from lingadevaru-hp/feat/keyboard-nav-same-tab-locale
+- docs: add keyboard shortcuts reference + summary entry
+- feat(keyboard): same-tab locale switch + full keyboard navigation + shortcuts manual
+
+- Release: [2026-10-05-31c404a](./2026-10-05-31c404a.md)
