@@ -288,3 +288,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(keyboard): same-tab locale switch + full keyboard navigation + shortcuts manual
 
 - Release: [2026-10-05-31c404a](./2026-10-05-31c404a.md)
+
+## 2026-10-05 — shipment 3715bdc
+
+- Merge pull request #103 from lingadevaru-hp/feat/articles-cleanup-nav-breadcrumbs-kannada
+- feat(articles,nav): All-articles retitle, drop category pills, even header, collection breadcrumbs
+
+- Release: [2026-10-05-3715bdc](./2026-10-05-3715bdc.md)
