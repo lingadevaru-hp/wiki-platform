@@ -302,3 +302,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(menu): language rows keep readable text at rest and on hover
 
 - Release: [2026-10-05-c1dd163](./2026-10-05-c1dd163.md)
+
+## 2026-10-05 — shipment 9b5c243
+
+- Merge pull request #105 from lingadevaru-hp/decoy/decoy-mode-analytics
+- feat(decoy): temporary single-page front with 503 + PostHog views
+
+- Release: [2026-10-05-9b5c243](./2026-10-05-9b5c243.md)
