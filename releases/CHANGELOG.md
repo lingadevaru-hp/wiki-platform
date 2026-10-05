@@ -295,3 +295,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(articles,nav): All-articles retitle, drop category pills, even header, collection breadcrumbs
 
 - Release: [2026-10-05-3715bdc](./2026-10-05-3715bdc.md)
+
+## 2026-10-05 — shipment c1dd163
+
+- Merge pull request #104 from lingadevaru-hp/fix/lang-menu-hover-text
+- fix(menu): language rows keep readable text at rest and on hover
+
+- Release: [2026-10-05-c1dd163](./2026-10-05-c1dd163.md)
