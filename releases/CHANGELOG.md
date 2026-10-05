@@ -309,3 +309,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(decoy): temporary single-page front with 503 + PostHog views
 
 - Release: [2026-10-05-9b5c243](./2026-10-05-9b5c243.md)
+
+## 2026-10-05 — shipment 5d61721
+
+- Merge pull request #106 from lingadevaru-hp/decoy/resume-page
+- feat(decoy): resume-based single page, exclusions applied
+
+- Release: [2026-10-05-5d61721](./2026-10-05-5d61721.md)
