@@ -357,3 +357,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: resolve SEO indexing and AI Catalog schema audits (#112)
 
 - Release: [2026-10-26-74a8433](./2026-10-26-74a8433.md)
+
+## 2026-10-26 — shipment 8deca37
+
+- ci: deploy main to production on merge (#113)
+
+- Release: [2026-10-26-8deca37](./2026-10-26-8deca37.md)
