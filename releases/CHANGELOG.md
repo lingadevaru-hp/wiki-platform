@@ -338,3 +338,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - Require confirmation for newsletter email changes
 
 - Release: [2026-10-26-245aab6](./2026-10-26-245aab6.md)
+
+## 2026-10-26 — shipment 59bf459
+
+- Merge pull request #110 from lingadevaru-hp/docs/newsletter-email-confirmation-rollout
+- Document newsletter email confirmation rollout
+
+- Release: [2026-10-26-59bf459](./2026-10-26-59bf459.md)
