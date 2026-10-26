@@ -331,3 +331,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - docs: record security audit findings
 
 - Release: [2026-10-26-8730fd2](./2026-10-26-8730fd2.md)
+
+## 2026-10-26 — shipment 245aab6
+
+- Merge pull request #109 from lingadevaru-hp/security/confirm-newsletter-email-changes
+- Require confirmation for newsletter email changes
+
+- Release: [2026-10-26-245aab6](./2026-10-26-245aab6.md)
