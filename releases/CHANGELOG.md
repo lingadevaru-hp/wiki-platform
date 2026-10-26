@@ -316,3 +316,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(decoy): resume-based single page, exclusions applied
 
 - Release: [2026-10-05-5d61721](./2026-10-05-5d61721.md)
+
+## 2026-10-26 — shipment 3243ba6
+
+- Merge pull request #107 from lingadevaru-hp/restore/portfolio-remove-decoy
+- Restore portfolio and remove decoy mode
+
+- Release: [2026-10-26-3243ba6](./2026-10-26-3243ba6.md)
