@@ -345,3 +345,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Document newsletter email confirmation rollout
 
 - Release: [2026-10-26-59bf459](./2026-10-26-59bf459.md)
+
+## 2026-10-26 — shipment 446d405
+
+- fix: resolve discovery and PageSpeed findings (#111)
+
+- Release: [2026-10-26-446d405](./2026-10-26-446d405.md)
