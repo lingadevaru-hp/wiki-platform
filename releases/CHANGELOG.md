@@ -323,3 +323,11 @@ Chronological record of shipments. Details per release in `releases/`.
 - Restore portfolio and remove decoy mode
 
 - Release: [2026-10-26-3243ba6](./2026-10-26-3243ba6.md)
+
+## 2026-10-26 — shipment 8730fd2
+
+- Merge pull request #108 from lingadevaru-hp/security/audit-summary
+- fix: harden verification and format newsletter timestamps
+- docs: record security audit findings
+
+- Release: [2026-10-26-8730fd2](./2026-10-26-8730fd2.md)
