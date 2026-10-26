@@ -351,3 +351,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: resolve discovery and PageSpeed findings (#111)
 
 - Release: [2026-10-26-446d405](./2026-10-26-446d405.md)
+
+## 2026-10-26 — shipment 74a8433
+
+- fix: resolve SEO indexing and AI Catalog schema audits (#112)
+
+- Release: [2026-10-26-74a8433](./2026-10-26-74a8433.md)
