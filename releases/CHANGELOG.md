@@ -381,3 +381,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Track analytics from initial page load (#116)
 
 - Release: [2026-10-27-0feb6d8](./2026-10-27-0feb6d8.md)
+
+## 2026-10-27 — shipment d66af2d
+
+- Restore landing page video playback (#117)
+
+- Release: [2026-10-27-d66af2d](./2026-10-27-d66af2d.md)
