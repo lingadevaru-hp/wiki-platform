@@ -369,3 +369,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - perf: take the 8.8 MB hero video and blocking fonts off the critical path (#114)
 
 - Release: [2026-10-27-db816c7](./2026-10-27-db816c7.md)
+
+## 2026-10-27 — shipment 74e5641
+
+- Improve mobile landing performance (#115)
+
+- Release: [2026-10-27-74e5641](./2026-10-27-74e5641.md)
