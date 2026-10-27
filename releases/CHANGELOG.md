@@ -375,3 +375,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Improve mobile landing performance (#115)
 
 - Release: [2026-10-27-74e5641](./2026-10-27-74e5641.md)
+
+## 2026-10-27 — shipment 0feb6d8
+
+- Track analytics from initial page load (#116)
+
+- Release: [2026-10-27-0feb6d8](./2026-10-27-0feb6d8.md)
