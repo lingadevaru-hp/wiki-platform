@@ -363,3 +363,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - ci: deploy main to production on merge (#113)
 
 - Release: [2026-10-26-8deca37](./2026-10-26-8deca37.md)
+
+## 2026-10-27 — shipment db816c7
+
+- perf: take the 8.8 MB hero video and blocking fonts off the critical path (#114)
+
+- Release: [2026-10-27-db816c7](./2026-10-27-db816c7.md)
