@@ -387,3 +387,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Restore landing page video playback (#117)
 
 - Release: [2026-10-27-d66af2d](./2026-10-27-d66af2d.md)
+
+## 2026-11-02 — shipment 8cccdcb
+
+- fix(chat): point drawer at live ai.lingadevaru.in; hand history to full site (#118)
+
+- Release: [2026-11-02-8cccdcb](./2026-11-02-8cccdcb.md)
