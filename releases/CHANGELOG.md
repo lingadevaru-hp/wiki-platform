@@ -423,3 +423,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Add files via upload
 
 - Release: [2026-11-09-f06df38](./2026-11-09-f06df38.md)
+
+## 2026-11-09 — shipment 1180e9a
+
+- Delete artifacts/thoshan-wiki/src/index.css
+
+- Release: [2026-11-09-1180e9a](./2026-11-09-1180e9a.md)
