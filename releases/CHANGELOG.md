@@ -399,3 +399,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Add files via upload
 
 - Release: [2026-11-09-38f9249](./2026-11-09-38f9249.md)
+
+## 2026-11-09 — shipment e83c22e
+
+- Add files via upload
+
+- Release: [2026-11-09-e83c22e](./2026-11-09-e83c22e.md)
