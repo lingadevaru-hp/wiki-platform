@@ -429,3 +429,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Delete artifacts/thoshan-wiki/src/index.css
 
 - Release: [2026-11-09-1180e9a](./2026-11-09-1180e9a.md)
+
+## 2026-11-09 — shipment b739458
+
+- Rename index (1).css to index.css
+
+- Release: [2026-11-09-b739458](./2026-11-09-b739458.md)
