@@ -393,3 +393,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(chat): point drawer at live ai.lingadevaru.in; hand history to full site (#118)
 
 - Release: [2026-11-02-8cccdcb](./2026-11-02-8cccdcb.md)
+
+## 2026-11-09 — shipment 38f9249
+
+- Add files via upload
+
+- Release: [2026-11-09-38f9249](./2026-11-09-38f9249.md)
