@@ -435,3 +435,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Rename index (1).css to index.css
 
 - Release: [2026-11-09-b739458](./2026-11-09-b739458.md)
+
+## 2026-11-09 — shipment 00533ed
+
+- Delete artifacts/thoshan-wiki/src/components/ChatPanel.tsx
+
+- Release: [2026-11-09-00533ed](./2026-11-09-00533ed.md)
