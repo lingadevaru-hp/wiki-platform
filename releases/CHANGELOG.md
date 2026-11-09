@@ -441,3 +441,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Delete artifacts/thoshan-wiki/src/components/ChatPanel.tsx
 
 - Release: [2026-11-09-00533ed](./2026-11-09-00533ed.md)
+
+## 2026-11-09 — shipment b028ed9
+
+- Rename ChatPanel (1).tsx to ChatPanel.tsx
+
+- Release: [2026-11-09-b028ed9](./2026-11-09-b028ed9.md)
