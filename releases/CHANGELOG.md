@@ -465,3 +465,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - chat-panel: reduce default width to 500px
 
 - Release: [2026-11-14-d874c49](./2026-11-14-d874c49.md)
+
+## 2026-11-14 — shipment 8fd65d8
+
+- chat-panel: handle portfolio navigation commands from embedded Thoshan Flash
+
+- Release: [2026-11-14-8fd65d8](./2026-11-14-8fd65d8.md)
