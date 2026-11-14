@@ -447,3 +447,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - Rename ChatPanel (1).tsx to ChatPanel.tsx
 
 - Release: [2026-11-09-b028ed9](./2026-11-09-b028ed9.md)
+
+## 2026-11-14 — shipment 06c4dd2
+
+- chat-panel: increase default desktop width for embedded chat
+
+- Release: [2026-11-14-06c4dd2](./2026-11-14-06c4dd2.md)
