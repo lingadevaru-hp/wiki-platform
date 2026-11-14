@@ -459,3 +459,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - chat-panel: fix default width not applying due to saved narrow state
 
 - Release: [2026-11-14-21694ad](./2026-11-14-21694ad.md)
+
+## 2026-11-14 — shipment d874c49
+
+- chat-panel: reduce default width to 500px
+
+- Release: [2026-11-14-d874c49](./2026-11-14-d874c49.md)
