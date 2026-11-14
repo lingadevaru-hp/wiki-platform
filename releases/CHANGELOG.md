@@ -453,3 +453,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - chat-panel: increase default desktop width for embedded chat
 
 - Release: [2026-11-14-06c4dd2](./2026-11-14-06c4dd2.md)
+
+## 2026-11-14 — shipment 21694ad
+
+- chat-panel: fix default width not applying due to saved narrow state
+
+- Release: [2026-11-14-21694ad](./2026-11-14-21694ad.md)
