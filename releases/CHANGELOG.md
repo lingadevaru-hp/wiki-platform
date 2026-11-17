@@ -541,3 +541,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: add missing ProtectedImg/ProtectedVideo imports and protected content images
 
 - Release: [2026-11-17-d3afb9c](./2026-11-17-d3afb9c.md)
+
+## 2026-11-17 — shipment 91bd358
+
+- Merge pull request #129 from lingadevaru-hp/harden/kv-integrity
+- feat: add SHA-256 integrity verification for protected KV media
+
+- Release: [2026-11-17-91bd358](./2026-11-17-91bd358.md)
