@@ -499,3 +499,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: expand related pages by default on article pages
 
 - Release: [2026-11-17-fc1270c](./2026-11-17-fc1270c.md)
+
+## 2026-11-17 — shipment adcfb0a
+
+- Merge pull request #123 from lingadevaru-hp/fix/search-modal-size-scroll
+- fix: keep global search modal size unchanged with scrollable results
+
+- Release: [2026-11-17-adcfb0a](./2026-11-17-adcfb0a.md)
