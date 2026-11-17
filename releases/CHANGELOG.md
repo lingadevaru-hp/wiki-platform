@@ -513,3 +513,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: open default global search from + and open selection in new tab
 
 - Release: [2026-11-17-c66a23b](./2026-11-17-c66a23b.md)
+
+## 2026-11-17 — shipment bb950ad
+
+- Merge pull request #125 from lingadevaru-hp/feat/embedded-chat-portfolio-control
+- feat: richer portfolio control bridge for embedded Thoshan Flash
+
+- Release: [2026-11-17-bb950ad](./2026-11-17-bb950ad.md)
