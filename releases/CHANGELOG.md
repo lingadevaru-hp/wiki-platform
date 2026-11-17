@@ -506,3 +506,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: keep global search modal size unchanged with scrollable results
 
 - Release: [2026-11-17-adcfb0a](./2026-11-17-adcfb0a.md)
+
+## 2026-11-17 — shipment c66a23b
+
+- Merge pull request #124 from lingadevaru-hp/fix/plus-opens-default-search
+- fix: open default global search from + and open selection in new tab
+
+- Release: [2026-11-17-c66a23b](./2026-11-17-c66a23b.md)
