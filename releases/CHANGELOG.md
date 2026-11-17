@@ -520,3 +520,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: richer portfolio control bridge for embedded Thoshan Flash
 
 - Release: [2026-11-17-bb950ad](./2026-11-17-bb950ad.md)
+
+## 2026-11-17 — shipment 3ab0a22
+
+- Merge pull request #126 from lingadevaru-hp/feat/chatbot-portfolio-access-and-crawler-protection
+- feat: first-party chatbot portfolio data access and stricter crawler/media protection
+
+- Release: [2026-11-17-3ab0a22](./2026-11-17-3ab0a22.md)
