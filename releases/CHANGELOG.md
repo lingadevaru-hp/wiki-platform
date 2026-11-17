@@ -534,3 +534,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: protect Omarchy meetup media with private gated delivery
 
 - Release: [2026-11-17-749780b](./2026-11-17-749780b.md)
+
+## 2026-11-17 — shipment d3afb9c
+
+- Merge pull request #128 from lingadevaru-hp/fix/protected-img-imports
+- fix: add missing ProtectedImg/ProtectedVideo imports and protected content images
+
+- Release: [2026-11-17-d3afb9c](./2026-11-17-d3afb9c.md)
