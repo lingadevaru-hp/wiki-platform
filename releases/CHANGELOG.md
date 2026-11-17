@@ -485,3 +485,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: macOS-style cursors and subtle UI click sound
 
 - Release: [2026-11-17-09ff5d4](./2026-11-17-09ff5d4.md)
+
+## 2026-11-17 — shipment 11b0312
+
+- Merge pull request #121 from lingadevaru-hp/feat/tab-search-reorder-cursors
+- feat: improve tab UX, global-search new-tab flow, and macOS cursors
+
+- Release: [2026-11-17-11b0312](./2026-11-17-11b0312.md)
