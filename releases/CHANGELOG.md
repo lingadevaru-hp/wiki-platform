@@ -478,3 +478,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: in-app browser-like tabs and portfolio chat control
 
 - Release: [2026-11-17-5fb1de2](./2026-11-17-5fb1de2.md)
+
+## 2026-11-17 — shipment 09ff5d4
+
+- Merge pull request #120 from lingadevaru-hp/feat/macos-cursors-click-sound
+- feat: macOS-style cursors and subtle UI click sound
+
+- Release: [2026-11-17-09ff5d4](./2026-11-17-09ff5d4.md)
