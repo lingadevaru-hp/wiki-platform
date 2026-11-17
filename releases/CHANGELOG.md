@@ -548,3 +548,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: add SHA-256 integrity verification for protected KV media
 
 - Release: [2026-11-17-91bd358](./2026-11-17-91bd358.md)
+
+## 2026-11-17 — shipment 0fb1012
+
+- Merge pull request #131 from lingadevaru-hp/fix/collections-protected-img-v2
+- fix: import ProtectedImg in collections page
+
+- Release: [2026-11-17-0fb1012](./2026-11-17-0fb1012.md)
