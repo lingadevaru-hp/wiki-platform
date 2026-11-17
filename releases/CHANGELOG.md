@@ -471,3 +471,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - chat-panel: handle portfolio navigation commands from embedded Thoshan Flash
 
 - Release: [2026-11-14-8fd65d8](./2026-11-14-8fd65d8.md)
+
+## 2026-11-17 — shipment 5fb1de2
+
+- Merge pull request #119 from lingadevaru-hp/feat/in-app-tabs-chat-control
+- feat: in-app browser-like tabs and portfolio chat control
+
+- Release: [2026-11-17-5fb1de2](./2026-11-17-5fb1de2.md)
