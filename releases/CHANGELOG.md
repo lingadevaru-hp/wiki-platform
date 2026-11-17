@@ -492,3 +492,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: improve tab UX, global-search new-tab flow, and macOS cursors
 
 - Release: [2026-11-17-11b0312](./2026-11-17-11b0312.md)
+
+## 2026-11-17 — shipment fc1270c
+
+- Merge pull request #122 from lingadevaru-hp/feat/article-related-pages-default-open
+- feat: expand related pages by default on article pages
+
+- Release: [2026-11-17-fc1270c](./2026-11-17-fc1270c.md)
