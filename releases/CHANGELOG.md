@@ -527,3 +527,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: first-party chatbot portfolio data access and stricter crawler/media protection
 
 - Release: [2026-11-17-3ab0a22](./2026-11-17-3ab0a22.md)
+
+## 2026-11-17 — shipment 749780b
+
+- Merge pull request #127 from lingadevaru-hp/protect-meetup-media
+- feat: protect Omarchy meetup media with private gated delivery
+
+- Release: [2026-11-17-749780b](./2026-11-17-749780b.md)
