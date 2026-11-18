@@ -576,3 +576,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(search): lock overlay card to fixed size
 
 - Release: [2026-11-18-4d548b5](./2026-11-18-4d548b5.md)
+
+## 2026-11-18 — shipment 4441543
+
+- Merge pull request #136 from lingadevaru-hp/fix/tabs-breadcrumb-visibility
+- fix(tabs): stop header hiding article breadcrumbs
+
+- Release: [2026-11-18-4441543](./2026-11-18-4441543.md)
