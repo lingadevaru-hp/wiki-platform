@@ -583,3 +583,11 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(tabs): stop header hiding article breadcrumbs
 
 - Release: [2026-11-18-4441543](./2026-11-18-4441543.md)
+
+## 2026-11-18 — shipment 9fe74a1
+
+- Merge pull request #137 from lingadevaru-hp/feat/premium-tabs-ux
+- feat(tabs): browser-grade interactions — haptics, live reflow drag, edge fades, wheel scroll, touch long-press, roving keys
+- feat(tabs): premium tab strip UX + search featured reorder
+
+- Release: [2026-11-18-9fe74a1](./2026-11-18-9fe74a1.md)
