@@ -591,3 +591,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(tabs): premium tab strip UX + search featured reorder
 
 - Release: [2026-11-18-9fe74a1](./2026-11-18-9fe74a1.md)
+
+## 2026-11-18 — shipment aa021ef
+
+- Merge pull request #138 from lingadevaru-hp/fix/tabs-reorder-idempotent
+- fix(tabs): idempotent live-reorder geometry, 1:1 touch follow, settle rework, pan-y
+
+- Release: [2026-11-18-aa021ef](./2026-11-18-aa021ef.md)
