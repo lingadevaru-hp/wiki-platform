@@ -562,3 +562,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat(wiki): show article actions at top and bottom
 
 - Release: [2026-11-18-dbb3fcc](./2026-11-18-dbb3fcc.md)
+
+## 2026-11-18 — shipment 579bb6a
+
+- Merge pull request #134 from lingadevaru-hp/fix/chunk-load-reload-recovery
+- fix(wiki): auto-reload on stale chunk load errors
+
+- Release: [2026-11-18-579bb6a](./2026-11-18-579bb6a.md)
