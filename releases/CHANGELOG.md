@@ -555,3 +555,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix: import ProtectedImg in collections page
 
 - Release: [2026-11-17-0fb1012](./2026-11-17-0fb1012.md)
+
+## 2026-11-18 — shipment dbb3fcc
+
+- Merge pull request #133 from lingadevaru-hp/feat/article-actions-top-bottom
+- feat(wiki): show article actions at top and bottom
+
+- Release: [2026-11-18-dbb3fcc](./2026-11-18-dbb3fcc.md)
