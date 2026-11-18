@@ -569,3 +569,10 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(wiki): auto-reload on stale chunk load errors
 
 - Release: [2026-11-18-579bb6a](./2026-11-18-579bb6a.md)
+
+## 2026-11-18 — shipment 4d548b5
+
+- Merge pull request #135 from lingadevaru-hp/fix/search-overlay-fixed-size
+- fix(search): lock overlay card to fixed size
+
+- Release: [2026-11-18-4d548b5](./2026-11-18-4d548b5.md)
