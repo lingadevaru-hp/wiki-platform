@@ -598,3 +598,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - fix(tabs): idempotent live-reorder geometry, 1:1 touch follow, settle rework, pan-y
 
 - Release: [2026-11-18-aa021ef](./2026-11-18-aa021ef.md)
+
+## 2026-11-20 — shipment b8628f4
+
+- feat: agent-action glow, tab-bar fixes, landing motion & menu nav (#139)
+
+- Release: [2026-11-20-b8628f4](./2026-11-20-b8628f4.md)
