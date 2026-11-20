@@ -634,3 +634,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - docs: note report is mirrored in commit message (#144)
 
 - Release: [2026-11-20-6c907f9](./2026-11-20-6c907f9.md)
+
+## 2026-11-20 — shipment 3c23a30
+
+- docs: finalize 20-11-2026 report (#145)
+
+- Release: [2026-11-20-3c23a30](./2026-11-20-3c23a30.md)
