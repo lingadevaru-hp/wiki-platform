@@ -604,3 +604,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: agent-action glow, tab-bar fixes, landing motion & menu nav (#139)
 
 - Release: [2026-11-20-b8628f4](./2026-11-20-b8628f4.md)
+
+## 2026-11-20 — shipment 68a17b8
+
+- feat: fuller agent glow + repeat-pull tab close (refresh-safe) (#140)
+
+- Release: [2026-11-20-68a17b8](./2026-11-20-68a17b8.md)
