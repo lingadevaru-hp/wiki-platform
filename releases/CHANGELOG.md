@@ -610,3 +610,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: fuller agent glow + repeat-pull tab close (refresh-safe) (#140)
 
 - Release: [2026-11-20-68a17b8](./2026-11-20-68a17b8.md)
+
+## 2026-11-20 — shipment f1c1a9e
+
+- feat: lift Latest News pill higher above the wordmark (#141)
+
+- Release: [2026-11-20-f1c1a9e](./2026-11-20-f1c1a9e.md)
