@@ -622,3 +622,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: calm edge-only glow + deliberate tab gesture (#142)
 
 - Release: [2026-11-20-2abcb78](./2026-11-20-2abcb78.md)
+
+## 2026-11-20 — shipment b46e200
+
+- docs: consolidate 20-11-2026 portfolio change report (#143)
+
+- Release: [2026-11-20-b46e200](./2026-11-20-b46e200.md)
