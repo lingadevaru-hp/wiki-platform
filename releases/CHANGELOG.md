@@ -616,3 +616,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - feat: lift Latest News pill higher above the wordmark (#141)
 
 - Release: [2026-11-20-f1c1a9e](./2026-11-20-f1c1a9e.md)
+
+## 2026-11-20 — shipment 2abcb78
+
+- feat: calm edge-only glow + deliberate tab gesture (#142)
+
+- Release: [2026-11-20-2abcb78](./2026-11-20-2abcb78.md)
