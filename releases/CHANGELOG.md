@@ -628,3 +628,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - docs: consolidate 20-11-2026 portfolio change report (#143)
 
 - Release: [2026-11-20-b46e200](./2026-11-20-b46e200.md)
+
+## 2026-11-20 — shipment 6c907f9
+
+- docs: note report is mirrored in commit message (#144)
+
+- Release: [2026-11-20-6c907f9](./2026-11-20-6c907f9.md)
