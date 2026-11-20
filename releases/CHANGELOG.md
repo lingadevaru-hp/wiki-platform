@@ -640,3 +640,9 @@ Chronological record of shipments. Details per release in `releases/`.
 - docs: finalize 20-11-2026 report (#145)
 
 - Release: [2026-11-20-3c23a30](./2026-11-20-3c23a30.md)
+
+## 2026-11-20 — shipment 6c9ab3f
+
+- feat: overhaul article reading settings (real controls, mobile sheet, soft light) (#146)
+
+- Release: [2026-11-20-6c9ab3f](./2026-11-20-6c9ab3f.md)
